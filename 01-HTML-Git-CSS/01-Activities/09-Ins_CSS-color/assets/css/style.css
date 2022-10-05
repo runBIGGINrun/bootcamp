@@ -1,7 +1,7 @@
 .box {
   /*Sets the height and width of the section */
   width: 200px;
-  height: 200px
+  height: 200px;
 }
 
 .box-blue {
@@ -10,7 +10,12 @@
   /* Sets background color */
   background-color: #0000ff;
 }
-
+.differentclasshere {
+  /* rules */
+}
+.anotherclass {
+  /* rules */
+}
 .box-orange {
   /* Uses hex codes to define color */
   color: #0000ff;
