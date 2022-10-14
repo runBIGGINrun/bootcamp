@@ -1,5 +1,5 @@
-* {
-  box-sizing: border-box;
+@media screen and (max-width: 992px) {
+ {width: 50%;}
 }
 
 body {
@@ -19,7 +19,7 @@ header {
   border-width: 1px;
   padding: 10px;
   float: left;
-  width: 25%;
+  width: 50%;
 }
 
 .card header {
@@ -31,7 +31,7 @@ header {
 }
 
 .card img {
-  width: 100%;
+  width: 0%;
 }
 
 /* TODO: Use media query to change the width of the cards so they split into two columns at 992px or smaller*/

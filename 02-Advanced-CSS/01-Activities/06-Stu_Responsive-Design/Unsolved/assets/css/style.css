@@ -16,7 +16,7 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: Write your answer here 
+TODO: as the screen size changes the  the contents respond in the way statedwer here 
 */
 nav {
   display: flex;
