@@ -168,13 +168,12 @@ footer {
   padding: 1.2rem 1rem;
   color: var(--gin);
   border-radius: 8px;
-  /* use linear-gradient() function to create a fading background  */
-  background-image: linear-gradient(
-    rgba(232, 102, 236, 0.3) 0%,
-    rgba(232, 102, 236, 0.6) 100%
-  );
+  /* background-image: linear-gradient( rgba(232, 102, 236, 0.3) 0%, rgba(232, 102, 236, 0.6) 100% ); */
   display: flex;
-  align-items: center;
+  align-items: baseline;
+  justify-content: flex-end;
+  align-content: flex-end;
+  flex-wrap: nowrap;
 }
 
 /* on <pre> click, select all contents so the code is highlighted */
