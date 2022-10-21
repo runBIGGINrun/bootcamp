@@ -1,7 +1,7 @@
 // So far, we have been storing one piece of data in variables
 var name = "Andre";
 var pets = 3; 
-var isStudent = true;
+var isStudent = true;r
 
 // To store groups of data in a single variable, we use arrays
 var names = ["Andre", "Karl", "Rashida", "Olivia"];
